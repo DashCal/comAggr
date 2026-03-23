@@ -1,0 +1,12 @@
+{
+  "lives": [
+    {
+      "name": "All",
+      "url": "https://aggr.localwu.com/iptv/latest/all.txt"
+    },
+    {
+      "name": "BroadLine",
+      "url": "https://aggr.localwu.com/iptv/latest/broad-line.txt"
+    }
+  ]
+}
